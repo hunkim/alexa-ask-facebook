@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+     "intent": "CommentIntent",
+     "slots":[
+        {
+          "name": "Comment",
+          "type": "SAMPLE_COMMENT"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}

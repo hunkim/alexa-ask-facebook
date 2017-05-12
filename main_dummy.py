@@ -94,7 +94,7 @@ def add_comment(intent, session):
         facebook_id = session['attributes']['facebook_feed_id']
         print("Facebook id:" + facebook_id)
     else:
-        speech_output = "Sometime went wrong. No facebook id!" \
+        speech_output = "Something went wrong. No facebook post id!" \
                         "Please try again."
         should_end_session = True
         return build_response({}, card_title, speech_output, "", should_end_session)
