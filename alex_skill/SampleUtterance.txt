@@ -1,0 +1,6 @@
+AMAZON.StopIntent stop
+AMAZON.YesIntent yes
+AMAZON.YesIntent ok
+
+CommentIntent {Comment}
+arn:aws:lambda:us-east-1:705119112097:function:FacebookOK

@@ -1,0 +1,31 @@
+{
+  "session": {
+    "sessionId": "SessionId.5c62792b-2907-4653-ad6c-ac8425140251",
+    "application": {
+      "applicationId": "amzn1.ask.skill.d0f193f0-f407-4167-824e-596a4a7587cd"
+    },
+    "attributes": {
+      "facebook_feed_id": "1262535653781847_1290245877677491"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AHT5R7LUQIDJI7ROAFWVUFFR2PRIRSC7I74NQTQFU4GEAWK3OJIOJJ66EF2TUSPGYARPLGCESSH6QON2YI4TESIK6BKLMZWKYMVCKCM56N46VBN36QUXBM5SOHPICUFN2ZC2NOKCVA6QUMWTHQTHGQX4KYXGCDVJBDP7WN5EHUILYZZHW5UYJKU4PQKF23RFOOU6QIFXIE3Z3TQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.5c20bf66-eb8d-46a6-8074-3ccc86a48401",
+    "locale": "en-US",
+    "timestamp": "2017-05-11T13:52:17Z",
+    "intent": {
+      "name": "CommentIntent",
+      "slots": {
+        "Comment": {
+          "name": "Comment",
+          "value": "OK OK from Lambda!"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

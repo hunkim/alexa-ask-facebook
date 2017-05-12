@@ -1,0 +1,6 @@
+# You'll need an access token here to do anything.  You can get a temporary one
+# https://graph.facebook.com/{page-id}?fields=access_token to get tokens
+# for the page id
+
+access_token = 'access facebook token'
+group_id = 'your group id'

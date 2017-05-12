@@ -1,0 +1,10 @@
+{'response': {'card': {'content': u"SessionSpeechlet - New feed: Let's go for it. by Sung Kim. What would you comment on it?",
+                       'title': 'SessionSpeechlet - New Feed',
+                       'type': 'Simple'},
+              'outputSpeech': {'text': u"New feed: Let's go for it. by Sung Kim. What would you comment on it?",
+                               'type': 'PlainText'},
+              'reprompt': {'outputSpeech': {'text': 'What would you comment on it?',
+                                            'type': 'PlainText'}},
+              'shouldEndSession': False},
+ 'sessionAttributes': {'facebook_feed_id': u'1262535653781847_1290379694330776'},
+ 'version': '1.0'}
